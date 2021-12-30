@@ -1,4 +1,4 @@
-#성공...
+#성공
 from selenium import webdriver
 
 driver = webdriver.Chrome(r"D:\바탕화면\chromedriver.exe")
